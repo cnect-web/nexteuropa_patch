@@ -1,6 +1,8 @@
 name = NextEuropa Multilingual PPatch
 description = Multilingual feature.
 core = 7.x
+php = 5.2.4
+multisite_version = 2.4
 package = NextEuropai
 registry_autoload[] = PSR-4
 files[] = includes/translation.handler.file.inc

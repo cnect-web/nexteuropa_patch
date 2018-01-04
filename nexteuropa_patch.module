@@ -2,7 +2,7 @@
 /**
  * @file
  * Code for the NextEuropa Multilingual feature.
-*/
+ */
 
 /**
  * Implements hook_entity_info_alter().

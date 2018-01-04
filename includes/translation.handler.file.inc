@@ -27,4 +27,3 @@ class EntityTranslationFileHandler extends EntityTranslationDefaultHandler {
   }
 
 }
-
