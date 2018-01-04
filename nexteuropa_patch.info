@@ -1,4 +1,4 @@
-name = NextEuropa Multilingual PPatch
+name = NextEuropa Multilingual Patch
 description = Multilingual feature.
 core = 7.x
 php = 5.2.4
